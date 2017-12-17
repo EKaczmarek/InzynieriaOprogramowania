@@ -14,7 +14,7 @@ namespace IO1
 {
     class Program
     {
-        static void zad1()
+        static void Main(string[] args)
         {
             //program będzie się wykonywal ponad 500 ms
             //Console.ReadKey();
