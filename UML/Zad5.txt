@@ -1,0 +1,8 @@
+5.	Które z wymienionych fraz s¹ poprawnymi nazwami przypadków u¿ycia i dlaczego:
+	a.	Bank account,
+	b.	Withdraw cash – przypadek u¿ycia
+	c.	Browse documents – przypadek u¿ycia
+	d.	Search documents – przypadek u¿ycia
+	e.	Customer suport,
+	f.	Appointment,
+	g.	Cancel appointment– przypadek u¿ycia
